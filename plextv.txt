@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,
+https://spottvod.akamaized.net/ott/rlaxx/gosee_tv/kn45897126-summer_in_the_meadow_-_diary_of_a_vanishing_world_main_OnAir_premium.mp4/index-v1-a1.m3u8?cid=29842&ecid=2433379&pid=5&dtid=3&sid=074012322352&gc=Mrk&gsd=U94&grm=1&content=1431916
+#EXTINF:-1,Tales from the Crypt 1972
+https://vod-content.plexvideos.com/streams/62be17785e5872e950b6cf97/539aa3e2-ba21-4f30-a5ee-3338fdaa0572/stream_4.m3u8
+#EXTINF:-1,Jug Face 2023
+https://vod-content.plexvideos.com/streams/62c30f1f5e5872e950ce6cb9/69e3131f-c55f-463a-9f94-e33ab96d817e/stream_3.m3u8
+#EXTINF:-1,The Food of the Gods 1976
+https://vod-content.plexvideos.com/streams/62be17795e5872e950b6e6ef/9aecc2b6-457c-41b6-9ff4-0860ff43cb56/stream_4.m3u8
+
+
